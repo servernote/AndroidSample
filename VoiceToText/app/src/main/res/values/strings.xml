@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VoiceToText</string>
+    <string name="start_speech">スピーチ開始</string>
+    <string name="stop_speech">スピーチ終了</string>
+
+    <string name="error">エラー</string>
+    <string name="ok">OK</string>
+    <string name="speech_not_available">音声認識が使用できません</string>
+    <string name="speech_not_granted">マイクの使用を許可してください</string>
+    <string name="prepare_speech">準備中...</string>
+    <string name="ready_speech">スピーチできます</string>
+    <string name="speech_error">音声認識中にエラーが発生しました</string>
+</resources>
